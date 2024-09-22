@@ -4,10 +4,10 @@ Este projeto é uma API desenvolvida em Java utilizando a **Clean Architecture**
 
 ## Tecnologias Utilizadas
 
-- **Java** (versão X)
+- **Java** 
 - **Spring Boot**
 - **Spring Data JPA**
-- **PostgreSQL** (ou MySQL, dependendo da escolha)
+- **PostgreSQL** 
 - **Arquitetura Limpa**
 - **JUnit**
   
